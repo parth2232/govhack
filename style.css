@@ -1,0 +1,23 @@
+/* Add your custom styles here */
+
+/* Example custom styles */
+.container {
+    margin-top: 2rem;
+}
+
+.btn-group {
+    margin-bottom: 1rem;
+}
+
+canvas {
+    border: 1px solid #ccc;
+}
+
+footer {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.text-white {
+    color: #fff;
+}
